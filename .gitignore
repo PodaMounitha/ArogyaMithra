@@ -1,0 +1,49 @@
+# =========================
+# Python
+# =========================
+backend/venv/
+backend/__pycache__/
+backend/**/*.pyc
+backend/**/*.pyo
+backend/**/*.pyd
+
+# Environment variables
+backend/.env
+
+# Uploaded medical files
+backend/uploads/
+
+# Flask cache
+backend/.pytest_cache/
+
+# =========================
+# React
+# =========================
+frontend/node_modules/
+frontend/dist/
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Git
+# =========================
+.git/
+
+# =========================
+# Python virtual environment
+# =========================
+venv/
